@@ -7,18 +7,18 @@ import './styles.css';
 gsap.registerPlugin(ScrollTrigger);
 
 const A = {
-  gandaberunda: '/assets/images/gandaberunda.png',
-  hero: '/assets/images/hero-background.jpg',
-  story: '/assets/images/story-image.jpg',
-  map: '/assets/images/karnataka.jpg',
-  yakshagana: '/assets/images/yakshagana.jpg',
-  folk: '/assets/images/folk-art.jpg',
-  heritage: '/assets/images/heritage.jpg',
-  music: '/assets/images/music.jpg',
-  cuisine: '/assets/images/cuisine.jpg',
-  theatre: '/assets/images/theatre.jpg',
+  gandaberunda: 'assets/images/gandaberunda.png',
+  hero: 'assets/images/hero-background.jpg',
+  story: 'assets/images/story-image.jpg',
+  map: 'assets/images/karnataka.jpg',
+  yakshagana: 'assets/images/yakshagana.jpg',
+  folk: 'assets/images/folk-art.jpg',
+  heritage: 'assets/images/heritage.jpg',
+  music: 'assets/images/music.jpg',
+  cuisine: 'assets/images/cuisine.jpg',
+  theatre: 'assets/images/theatre.jpg',
   // flagMedia: '/assets/media/kannada-rajyotsava-flag.mp4',
-  bgMusic: '/assets/audio/karnataka-ambient.mp3',
+  bgMusic: 'assets/audio/karnataka-ambient.mp3',
 };
 
 const culture = [
